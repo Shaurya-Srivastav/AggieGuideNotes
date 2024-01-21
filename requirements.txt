@@ -2,5 +2,5 @@ streamlit
 PyPDF2
 python-docx
 fpdf
-openai
+openai==0.27.6
 python-dotenv
